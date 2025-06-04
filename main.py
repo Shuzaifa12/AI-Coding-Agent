@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import streamlit as st
 
 st.set_page_config(layout = "wide", page_title = "Coding Agent")
-st.title("✍ Hello Form Your Expert Coding Agent 🤖")
+st.title("✍ Hello From Your Expert Coding Agent 🤖")
 
 load_dotenv()
 
